@@ -1,4 +1,4 @@
-name: Add important packages for compile packages
+name: Update DB
 on:
   workflow_dispatch:
 jobs:
