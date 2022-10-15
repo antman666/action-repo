@@ -16,6 +16,7 @@ jobs:
           artifacts: "./*.zst"
           token: ${{ secrets.GITHUB_TOKEN }}
   update_db:
+    needs: pull_packages
     runs-on: ubuntu-latest
     steps: 
       - uses: antman666/update-db-for-repo@single
