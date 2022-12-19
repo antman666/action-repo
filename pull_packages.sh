@@ -14,7 +14,7 @@ wget -c ${url}/lib32-gcc-libs-12.2.1-2-x86_64.pkg.tar.zst
 wget -c ${url}/lib32-glibc-2.36-5-x86_64.pkg.tar.zst
 wget -c ${url}/libgccjit-12.2.1-2-x86_64.pkg.tar.zst
 wget -c ${url}/libtool-2.4.7-1-x86_64.pkg.tar.zst
-wget -c ${url}/llvm-15.0.6-1-x86_64.pkg.tar.zst
+wget -c ${url}/llvm-15.0.6-2-x86_64.pkg.tar.zst
 wget -c ${url}/lz4-1.1.9.4-1-x86_64.pkg.tar.zst
 wget -c ${url}/zstd-1.5.2-3-x86_64.pkg.tar.zst
 wget -c ${url}/zlib-1.1.2.13-1-x86_64.pkg.tar.zst
