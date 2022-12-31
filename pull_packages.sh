@@ -9,7 +9,7 @@ wget -c ${url}/gcc-go-12.2.1-2-x86_64.pkg.tar.zst
 wget -c ${url}/gcc-libs-12.2.1-2-x86_64.pkg.tar.zst
 wget -c ${url}/gcc-objc-12.2.1-2-x86_64.pkg.tar.zst
 wget -c ${url}/glibc-2.36-5-x86_64.pkg.tar.zst
-wget -c ${url}/glib2-2.74.3-1-x86_64.pkg.tar.zst
+wget -c ${url}/glib2-2.74.4-1-x86_64.pkg.tar.zst
 wget -c ${url}/lib32-gcc-libs-12.2.1-2-x86_64.pkg.tar.zst
 wget -c ${url}/lib32-glibc-2.36-5-x86_64.pkg.tar.zst
 wget -c ${url}/libgccjit-12.2.1-2-x86_64.pkg.tar.zst
